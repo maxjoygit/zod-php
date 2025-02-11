@@ -18,10 +18,9 @@
     },
     "autoload": {
        "psr-4": {
-          "Aniruddh\\Router\\": "src/"
+          "Validator\\": "src/"
        }
     },
-    "minimum-stability": "dev",
     "prefer-stable": true
  }
  
