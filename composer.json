@@ -1,0 +1,27 @@
+{
+    "name": "maxjoy/zod-php",
+    "description": "zod php valator",
+    "keywords": ["validator", "zod-php"],
+    "homepage": "https://github.com/maxjoygit/zod-php",
+    "license": "MIT",
+    "authors": [
+       {
+          "name": "maxjoy",
+          "email": "maxjoynxt@gmail.com",
+          "homepage": "https://maxjoygit.github.io",
+          "role": "Creator/Developer"
+       }
+       
+    ],
+    "require": {
+       "php": ">=7.4.0"
+    },
+    "autoload": {
+       "psr-4": {
+          "Aniruddh\\Router\\": "src/"
+       }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+ }
+ 
